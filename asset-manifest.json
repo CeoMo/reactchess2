@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/reactchess2/static/js/main.2c25f25c.js",
+    "index.html": "/reactchess2/index.html",
+    "main.2c25f25c.js.map": "/reactchess2/static/js/main.2c25f25c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2c25f25c.js"
+  ]
+}
